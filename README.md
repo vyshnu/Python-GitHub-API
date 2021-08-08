@@ -1,3 +1,3 @@
 # Python-GitHub-API
 
-This repository contains scripts that interact with GitHub Rest API and GraphQL API for various usecases.
+This repository contains python scripts that interact with GitHub Rest API and GraphQL API for various usecases.
